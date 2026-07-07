@@ -15,15 +15,6 @@ This project analyzes web application security vulnerabilities using **Burp Suit
 3. **Exploitation:** Tested for SQL Injection & XSS vulnerabilities.  
 4. **Reporting:** Suggested mitigation techniques.  
 
-## 📷 Screenshots  
-_Add screenshots from Burp Suite, SQL Injection exploitation, etc._  
-
----
-
-
-
-## 📷 Screenshots  
-_Add screenshots from Burp Suite, SQL Injection exploitation, etc._  
 
 ---
 
